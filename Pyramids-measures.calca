@@ -1,4 +1,5 @@
 earth_equatorial_circumference = 24902.45
 scale = 43200
-earth_equatorial_circumference / scale => 0.5764
 feet_in_mile = 5280
+earth_equatorial_circumference / scale => 0.5764
+feet_in_mile * (earth_equatorial_circumference / scale) => 3,043.6328
