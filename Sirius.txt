@@ -18,3 +18,5 @@ The logic is close to inescapable. Either we accept that the Antarctic ice cap i
 Модель: LG MS-2022G 
 Серийный номер (=код продукта) : MS1929G.CW6QCIS
 0-800-303-000
+
+Changes done at work. What I had added yesterday haven't been 'pushed' yet from home computer. Thus, commit-ing these change would create some conflicts.
