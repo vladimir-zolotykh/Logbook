@@ -19,8 +19,12 @@ The logic is close to inescapable. Either we accept that the Antarctic ice cap i
 Серийный номер (=код продукта) : MS1929G.CW6QCIS
 0-800-303-000
 
+
 By the same token, since map-making is a complex and civilized
 activity , it compels us to explain how such a task could have been
 accomplished even six thousands years ago ,well before the development
 of the first true civilizations recognized by historians.
+
+
+Changes done at work. What I had added yesterday haven't been 'pushed' yet from home computer. Thus, commit-ing these change would create some conflicts.
 
